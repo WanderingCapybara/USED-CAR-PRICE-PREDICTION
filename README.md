@@ -17,13 +17,13 @@ For this project, I'm utilizing a dataset from Kaggle. You can find the dataset 
 - optuna 3.3.0
 
 ## Table of Contents
-1. [Background](#background)
-2. [Data Exploration](#explor)
-3. [EDA](#eda)
-4. [Data Cleansing](#clean)
-5. [Data Preprocessing](#preprocess)
-6. [Modeling](#model)
-7. [Summary](#summary)
+1. [Background](used_car_prices_prediction.ipynb#background)
+2. [Data Exploration](used_car_prices_prediction.ipynb#explor)
+3. [EDA](used_car_prices_prediction.ipynb#eda)
+4. [Data Cleansing](used_car_prices_prediction.ipynb#clean)
+5. [Data Preprocessing](used_car_prices_prediction.ipynb#preprocess)
+6. [Modeling](used_car_prices_prediction.ipynb#model)
+7. [Summary](used_car_prices_prediction.ipynb#summary)
 
 ---
 
