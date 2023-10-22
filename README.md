@@ -1,8 +1,30 @@
-# USED-CAR-PRICE-PREDICTION
+# Used Car Price Prediction
 
-Objective:
-This project was initiated with the goal of developing a robust machine learning model capable of accurately predicting the prices of used cars. The model is poised to deliver substantial advantages to both prospective buyers, keen on ascertaining the true value of their desired pre-owned vehicle, and sellers, who seek to establish competitive pricing. It holds the potential to empower both consumers and sellers with the knowledge required to make well-informed choices in the process of buying or selling a pre-owned vehicle, thereby potentially mitigating the inherent uncertainty associated with such transactions.
+## Objective
+This project aims to develop a robust machine-learning model capable of accurately predicting the prices of used cars. The model is designed to provide significant advantages to both prospective buyers, who want to determine the true value of their desired pre-owned vehicle, and sellers, seeking to establish competitive pricing. It holds the potential to empower both consumers and sellers with the knowledge required to make well-informed choices in the process of buying or selling a pre-owned vehicle, thereby potentially mitigating the inherent uncertainty associated with such transactions.
 
-Dataset
-In this project, I'm using a dataset from kaggle.com. Here is the link to the dataset: https://www.kaggle.com/datasets/tunguz/used-car-auction-prices.
+## Dataset
+For this project, I'm utilizing a dataset from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/tunguz/used-car-auction-prices).
 
+## Package and Libraries
+- pandas 2.1.1
+- numpy 1.26.0
+- matplotlib 3.7.0
+- matplotlib-inline 0.1.6
+- seaborn 0.12.2
+- scikit-learn 1.2.1
+- xgboost 1.7.6 
+- optuna 3.3.0
+
+## Table of Contents
+1. [Background](#background)
+2. [Data Exploration](#explor)
+3. [EDA](#eda)
+4. [Data Cleansing](#clean)
+5. [Data Preprocessing](#preprocess)
+6. [Modeling](#model)
+7. [Summary](#summary)
+
+---
+
+**Note**: Please ensure that you have the necessary packages and libraries installed before running the notebook.
